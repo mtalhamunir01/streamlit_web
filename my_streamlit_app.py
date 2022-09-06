@@ -71,7 +71,7 @@ with st.container():
             "<p style='font-size:50px; color: #cc7a00; text-align: left;margin:0;padding:0;line-height: 1.25em;text-align: left '>Muhammad Talha Munir</p>",
             unsafe_allow_html=True)
         st.markdown(
-            "<p style='font-size:25px; color:#C0C0C0; text-align: left;margin:0;padding:2;line-height: 1.25em;text-align: left;padding-bottom: 15px;'>Data Scientist | Machine Learning</p>",
+            "<p style='font-size:25px; color:#C0C0C0; text-align: left;margin:0;padding:2;line-height: 1.25em;text-align: left;padding-bottom: 15px;'>Data Scientist | ML Engineer</p>",
             unsafe_allow_html=True)
         st.markdown(
             "<p style='font-size:17px; color: #808075; text-align: left;margin:0;padding:2;line-height: 1.25em;text-align: left '>A Certified Data Scientist, capable to ensure accuracy and integrity around data and insights among various industries. Moderately skilled in data-driven solutions, data visualization, machine learning and deep learning.</p>",
